@@ -1,1 +1,2 @@
 # NHIZ
+print(NHIZ)
